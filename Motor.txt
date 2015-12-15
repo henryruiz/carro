@@ -1,3 +1,4 @@
 Float cilindraje
 String marca
+String tipo
 int peso
