@@ -1,1 +1,3 @@
 Float cilindraje
+int serial
+int peso
